@@ -1,0 +1,5 @@
+host = "172.21.50.161"
+port = "22"
+user = "root"
+pass = "dell"
+dokr = "ide"
